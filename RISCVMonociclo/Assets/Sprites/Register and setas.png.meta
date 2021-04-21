@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: 2026d7d020e21d54ab040547fb75b213
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7762402098936495610
+    second: Register and setas_0
+  - first:
+      213: 1642595957752163841
+    second: Register and setas_1
+  - first:
+      213: -1849169371238192984
+    second: Register and setas_2
+  - first:
+      213: -5955814652190985982
+    second: Register and setas_3
+  - first:
+      213: 2744528710992310148
+    second: Register and setas_4
+  - first:
+      213: 8745967012576258825
+    second: Register and setas_5
+  - first:
+      213: 8923319452982102828
+    second: Register and setas_6
+  - first:
+      213: -2398146917304697284
+    second: Register and setas_7
+  - first:
+      213: -4132421149116124294
+    second: Register and setas_8
+  - first:
+      213: 7285753426428192785
+    second: Register and setas_9
+  - first:
+      213: 1427592815843124789
+    second: Register and setas_10
+  - first:
+      213: 5898494963244181982
+    second: Register and setas_11
+  - first:
+      213: 2325450844286718536
+    second: Register and setas_12
+  - first:
+      213: -6472515735374822661
+    second: Register and setas_13
+  - first:
+      213: -4721510908757896665
+    second: Register and setas_14
+  - first:
+      213: -4227491382845037225
+    second: Register and setas_15
+  - first:
+      213: 2586480769329034637
+    second: Register and setas_16
+  - first:
+      213: 6110900595830512197
+    second: Register and setas_17
+  - first:
+      213: 3760231139344124670
+    second: Register and setas_18
+  - first:
+      213: 7454389427393298930
+    second: Register and setas_19
+  - first:
+      213: 9042103233329260755
+    second: Register and setas_20
+  - first:
+      213: -659069354841394037
+    second: Register and setas_21
+  - first:
+      213: -3510494047090404739
+    second: Register and setas_22
+  - first:
+      213: 1193674093523872633
+    second: Register and setas_23
+  - first:
+      213: 2338615362891020413
+    second: Register and setas_24
+  - first:
+      213: -2639927380078561495
+    second: Register and setas_25
+  - first:
+      213: -4653526550604926789
+    second: Register and setas_26
+  - first:
+      213: -3320236981418804139
+    second: Register and setas_27
+  - first:
+      213: 3791199681625489745
+    second: Register and setas_28
+  - first:
+      213: -1402200239513117862
+    second: Register and setas_29
+  - first:
+      213: -5202817468161855358
+    second: Register and setas_30
+  - first:
+      213: -5862469895914364177
+    second: Register and setas_31
+  - first:
+      213: -5794028895966807870
+    second: Register and setas_32
+  - first:
+      213: -5406914553096754258
+    second: Register and setas_33
+  - first:
+      213: -5663142203546836579
+    second: Register and setas_34
+  - first:
+      213: 5409896833098290814
+    second: Register and setas_35
+  - first:
+      213: 8186499986620009635
+    second: Register and setas_36
+  - first:
+      213: 2464467183585895547
+    second: Register and setas_37
+  - first:
+      213: -8485003243662765507
+    second: Register and setas_38
+  - first:
+      213: -8097798788150871123
+    second: Register and setas_39
+  - first:
+      213: -4141152176402771103
+    second: Register and setas_40
+  - first:
+      213: -3242730394850753035
+    second: Register and setas_41
+  - first:
+      213: 1249628968875399984
+    second: Register and setas_42
+  - first:
+      213: -2641119077917542496
+    second: Register and setas_43
+  - first:
+      213: 9151115367491521366
+    second: Register and setas_44
+  - first:
+      213: -949787666231295475
+    second: Register and setas_45
+  - first:
+      213: 4022915696054302790
+    second: Register and setas_46
+  - first:
+      213: 2288525714604645119
+    second: Register and setas_47
+  - first:
+      213: -1475239021154437997
+    second: Register and setas_48
+  - first:
+      213: 3047214115486587262
+    second: Register and setas_49
+  - first:
+      213: -2965551222144660699
+    second: Register and setas_50
+  - first:
+      213: -5494843016756030356
+    second: Register and setas_51
+  - first:
+      213: 7878586813631143650
+    second: Register and setas_52
+  - first:
+      213: 7906561388931395348
+    second: Register and setas_53
+  - first:
+      213: -5431796586155324062
+    second: Register and setas_54
+  - first:
+      213: 1489383457893831788
+    second: Register and setas_55
+  - first:
+      213: -8524050618302288457
+    second: Register and setas_56
+  - first:
+      213: -2822969497405770112
+    second: Register and setas_57
+  - first:
+      213: 8414998880781812690
+    second: Register and setas_58
+  - first:
+      213: 5700395650193953683
+    second: Register and setas_59
+  - first:
+      213: -6346920772801245905
+    second: Register and setas_60
+  - first:
+      213: 4601416479761923187
+    second: Register and setas_61
+  - first:
+      213: -3886779428138967420
+    second: Register and setas_62
+  - first:
+      213: 8029837852832583805
+    second: Register and setas_63
+  - first:
+      213: -6352233924118547285
+    second: Register and setas_64
+  - first:
+      213: 632580615557946069
+    second: Register and setas_65
+  - first:
+      213: 7493675654835905571
+    second: Register and setas_66
+  - first:
+      213: 5351638213234808427
+    second: Register and setas_67
+  - first:
+      213: -4558515875147912210
+    second: Register and setas_68
+  - first:
+      213: -5282130484461126521
+    second: Register and setas_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Register and setas_0
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1942
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c4210b68664490800000000000000
+      internalID: -7762402098936495610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_1
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1870
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6f4b125cabc610800000000000000
+      internalID: 1642595957752163841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_2
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1754
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a0d1114e6656e0800000000000000
+      internalID: -1849169371238192984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_3
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1754
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f61c0122b85da0800000000000000
+      internalID: -5955814652190985982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1754
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fae8e4256861620800000000000000
+      internalID: 2744528710992310148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_5
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1754
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b64e9e8aaef5970800000000000000
+      internalID: 8745967012576258825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_6
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1753
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc454c3cff5db70800000000000000
+      internalID: 8923319452982102828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1644
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3efadaa51218bed0800000000000000
+      internalID: -2398146917304697284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_8
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1644
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a733f900cd0b6a6c0800000000000000
+      internalID: -4132421149116124294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_9
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1644
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186657c3223c1560800000000000000
+      internalID: 7285753426428192785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_10
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1644
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536aa303a14dfc310800000000000000
+      internalID: 1427592815843124789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_11
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1627
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9a991eae9abd150800000000000000
+      internalID: 5898494963244181982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_12
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1627
+        width: 271
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842975cd839a54020800000000000000
+      internalID: 2325450844286718536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_13
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1534
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf28bd54b310d26a0800000000000000
+      internalID: -6472515735374822661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_14
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1534
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7229a5818d2d97eb0800000000000000
+      internalID: -4721510908757896665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_15
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1534
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552f7a4cfee455c0800000000000000
+      internalID: -4227491382845037225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_16
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1534
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857c325e8605e320800000000000000
+      internalID: 2586480769329034637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_17
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1510
+        width: 426
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a533807b74ec450800000000000000
+      internalID: 6110900595830512197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_18
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1425
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa08f57c460f2430800000000000000
+      internalID: 3760231139344124670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_19
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1425
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1843d60bf437760800000000000000
+      internalID: 7454389427393298930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_20
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1425
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8600dcbf00c7d70800000000000000
+      internalID: 9042103233329260755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_21
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1425
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843556e9e38ad6f0800000000000000
+      internalID: -659069354841394037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_22
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1312
+        width: 164
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d729d097348384fc0800000000000000
+      internalID: -3510494047090404739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_23
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1312
+        width: 291
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba3128348c09010800000000000000
+      internalID: 1193674093523872633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_24
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1312
+        width: 164
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f363384e647020800000000000000
+      internalID: 2338615362891020413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_25
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1312
+        width: 290
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927f695e8081d5bd0800000000000000
+      internalID: -2639927380078561495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_26
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1202
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03856f14a5b6fb0800000000000000
+      internalID: -4653526550604926789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_27
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1202
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cba688e062ce1d0800000000000000
+      internalID: -3320236981418804139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_28
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1202
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518cd7160c0d9430800000000000000
+      internalID: 3791199681625489745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_29
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1202
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5ad3bf426a8ce0800000000000000
+      internalID: -1402200239513117862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_30
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1092
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f3031411ebc7b0800000000000000
+      internalID: -5202817468161855358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_31
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1092
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe26a9bb0b254aea0800000000000000
+      internalID: -5862469895914364177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_32
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1092
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8bc8dca69779fa0800000000000000
+      internalID: -5794028895966807870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_33
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1092
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab27cb6cd7c6f4b0800000000000000
+      internalID: -5406914553096754258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 982
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d916115ab2a7861b0800000000000000
+      internalID: -5663142203546836579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_35
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 982
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769550c180d31b40800000000000000
+      internalID: 5409896833098290814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_36
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 982
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc9382d5a4c9170800000000000000
+      internalID: 8186499986620009635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_37
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 982
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ae3e98db833220800000000000000
+      internalID: 2464467183585895547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_38
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 872
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32917f51863f3a80800000000000000
+      internalID: -8485003243662765507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_39
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 872
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabbda9f7e6de9f80800000000000000
+      internalID: -8097798788150871123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_40
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 872
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635dac490ca786c0800000000000000
+      internalID: -4141152176402771103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_41
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 872
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f50f88f2e18ff2d0800000000000000
+      internalID: -3242730394850753035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_42
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 762
+        width: 164
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b1bd62de2975110800000000000000
+      internalID: 1249628968875399984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_43
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 762
+        width: 291
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b73f113cd85bd0800000000000000
+      internalID: -2641119077917542496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_44
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 762
+        width: 164
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b43f921fa4ffe70800000000000000
+      internalID: 9151115367491521366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_45
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 762
+        width: 290
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d028c36562da1d2f0800000000000000
+      internalID: -949787666231295475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_46
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 653
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f8a0e28444d730800000000000000
+      internalID: 4022915696054302790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_47
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 653
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa5b56230a72cf10800000000000000
+      internalID: 2288525714604645119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_48
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 653
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947b492de5e68be0800000000000000
+      internalID: -1475239021154437997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_49
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 653
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79522cd711e94a20800000000000000
+      internalID: 3047214115486587262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_50
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 543
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b87d820ee38d6d0800000000000000
+      internalID: -2965551222144660699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_51
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 543
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6498b1a3656eb3b0800000000000000
+      internalID: -5494843016756030356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_52
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 543
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9f86e6fc565d60800000000000000
+      internalID: 7878586813631143650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_53
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 543
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f231641bfb9bd60800000000000000
+      internalID: 7906561388931395348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_54
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 430
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d4806a8c16e94b0800000000000000
+      internalID: -5431796586155324062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_55
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 430
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64da162d5a5ba410800000000000000
+      internalID: 1489383457893831788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_56
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 430
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda4a0002d74b980800000000000000
+      internalID: -8524050618302288457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_57
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 430
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086bd57e23cc2d8d0800000000000000
+      internalID: -2822969497405770112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 320
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34f42c5e418c470800000000000000
+      internalID: 8414998880781812690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_59
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 320
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3931ef054afdb1f40800000000000000
+      internalID: 5700395650193953683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_60
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 320
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d42af3f253be7a0800000000000000
+      internalID: -6346920772801245905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_61
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 320
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c76d3b8e38bdf30800000000000000
+      internalID: 4601416479761923187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_62
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 210
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e1b7104b26f0ac0800000000000000
+      internalID: -3886779428138967420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_63
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 210
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705216bbf6bf6f60800000000000000
+      internalID: 8029837852832583805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_64
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 210
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba47abec6e458d7a0800000000000000
+      internalID: -6352233924118547285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_65
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 210
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1122e7b067c800800000000000000
+      internalID: 632580615557946069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_66
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 100
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ac7c0e42eef760800000000000000
+      internalID: 7493675654835905571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_67
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 100
+        width: 291
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66544ac996d44a40800000000000000
+      internalID: 5351638213234808427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_68
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 100
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb64dea6f5ecb0c0800000000000000
+      internalID: -4558515875147912210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register and setas_69
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 100
+        width: 290
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cbe607f4a12b6b0800000000000000
+      internalID: -5282130484461126521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
