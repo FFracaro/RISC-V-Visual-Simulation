@@ -15,6 +15,11 @@ public class ProgramCounter : MonoBehaviour
         PCProximo.text = PCAddress;
     }
 
+    public string GetPCAtualValue()
+    {
+        return PCAtual.text;
+    }
+
     public void PropagarValorPC()
     {
         PCAtual.text = PCProximo.text;
