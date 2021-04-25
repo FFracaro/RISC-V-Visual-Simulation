@@ -18,7 +18,7 @@ public class InstructionMemory : MonoBehaviour
     public TMP_Text ULAControlInput;
     public TMP_Text NomeInstrução;
 
-    private string OpCodeValue, Reg1Value, Reg2Value, Reg3Value, InstruçãoTipo;
+    private string OpCodeValue, Reg1Value, Reg2Value, Reg3Value;
     private string[] ULAControlValue = new string[2];
 
     public void SetInstruções(List<string> inst)
@@ -44,11 +44,6 @@ public class InstructionMemory : MonoBehaviour
     public string GetReg3Value()
     {
         return Reg3Value;
-    }
-
-    public string GetInstruçãoTipo()
-    {
-        return InstruçãoTipo;
     }
 
     public string[] GetULAControlValue()
@@ -117,14 +112,10 @@ public class InstructionMemory : MonoBehaviour
                 return "LW";
             case 35:
                 return "SW";
-            case 19:
-                return "ADDI";
-            case 103:
-                if (Convert.ToInt32(ULAControlValue[1], 2) == 0)
-                {                  
+            case 99:
+                if (Convert.ToInt32(ULAControlValue[1], 2) == 0)               
                     return "BEQ";
-                }
-                return "BNE";
+                break;
             case 51:
                 if (Convert.ToInt32(ULAControlValue[1], 2) == 0)
                 {

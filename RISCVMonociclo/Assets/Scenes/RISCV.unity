@@ -7906,7 +7906,7 @@ GameObject:
   m_Component:
   - component: {fileID: 212525815}
   m_Layer: 0
-  m_Name: INValue1MUXULA
+  m_Name: INValue1ULA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34691,7 +34691,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 000000
+  m_text: 000200
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46363,6 +46363,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1287127593}
+  - component: {fileID: 1287127594}
   m_Layer: 0
   m_Name: REGISTER
   m_TagString: Untagged
@@ -46393,6 +46394,88 @@ Transform:
   m_Father: {fileID: 1982426180}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1287127594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1287127592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f719886cd00ae419b092ce7aefdbb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Reg1Output: {fileID: 815191238}
+  Reg2Output:
+  - {fileID: 814647997}
+  - {fileID: 1164020320}
+  RegistersArrows:
+  - {fileID: 26333956}
+  - {fileID: 863969363}
+  - {fileID: 385054308}
+  - {fileID: 527609750}
+  - {fileID: 2070776930}
+  - {fileID: 963193274}
+  - {fileID: 1092041024}
+  - {fileID: 768091853}
+  - {fileID: 1133717298}
+  - {fileID: 563946554}
+  - {fileID: 1782697004}
+  - {fileID: 1857445481}
+  - {fileID: 1059921337}
+  - {fileID: 1828058150}
+  - {fileID: 235105330}
+  - {fileID: 305472065}
+  - {fileID: 79918258}
+  - {fileID: 676049580}
+  - {fileID: 344487967}
+  - {fileID: 1645361885}
+  - {fileID: 1506094262}
+  - {fileID: 956988022}
+  - {fileID: 949854156}
+  - {fileID: 903614918}
+  - {fileID: 110058493}
+  - {fileID: 2084237468}
+  - {fileID: 1655210239}
+  - {fileID: 785703526}
+  - {fileID: 1710079027}
+  - {fileID: 256282027}
+  - {fileID: 1710697706}
+  - {fileID: 52713679}
+  RegistersContent:
+  - {fileID: 1789278631}
+  - {fileID: 989214979}
+  - {fileID: 1316613342}
+  - {fileID: 563034295}
+  - {fileID: 1572507855}
+  - {fileID: 598112335}
+  - {fileID: 1737361171}
+  - {fileID: 1579841971}
+  - {fileID: 1532038936}
+  - {fileID: 218929029}
+  - {fileID: 1127932221}
+  - {fileID: 1803738255}
+  - {fileID: 1032752448}
+  - {fileID: 1391087975}
+  - {fileID: 471808998}
+  - {fileID: 661538817}
+  - {fileID: 1873182529}
+  - {fileID: 1173935298}
+  - {fileID: 402222017}
+  - {fileID: 2072338067}
+  - {fileID: 1677521261}
+  - {fileID: 1516433412}
+  - {fileID: 338364203}
+  - {fileID: 1940908629}
+  - {fileID: 1717194191}
+  - {fileID: 481262927}
+  - {fileID: 1719173542}
+  - {fileID: 1440570805}
+  - {fileID: 1836916961}
+  - {fileID: 1503585156}
+  - {fileID: 615106442}
+  - {fileID: 1840601264}
 --- !u!1 &1297221446
 GameObject:
   m_ObjectHideFlags: 0
@@ -47154,7 +47237,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 000000
+  m_text: 000010
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -47709,6 +47792,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1331883350}
+  - component: {fileID: 1331883351}
   m_Layer: 0
   m_Name: Control
   m_TagString: Untagged
@@ -47742,6 +47826,33 @@ Transform:
   m_Father: {fileID: 1982426180}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1331883351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1331883349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5692c3b504f8847a687bd6ebf30653, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  "TipoInstru\xE7\xE3o": {fileID: 1847576599}
+  RegWriteInput: {fileID: 941549}
+  BranchInput: {fileID: 468617266}
+  MemReadInput: {fileID: 1466739286}
+  MemToRegInput: {fileID: 1940954994}
+  ALUOpInput: {fileID: 886051955}
+  MemWriteInput: {fileID: 1788484358}
+  ALUSrcInput: {fileID: 525106069}
+  RegWriteOutput: {fileID: 487499024}
+  BranchOutput: {fileID: 1216181442}
+  MemReadOutput: {fileID: 509198755}
+  MemToRegOutput: {fileID: 1769650933}
+  ALUOpOutput: {fileID: 154447025}
+  MemWriteOutput: {fileID: 1941442492}
+  ALUSrcOutput: {fileID: 885023644}
 --- !u!1 &1332159177
 GameObject:
   m_ObjectHideFlags: 0
@@ -50039,7 +50150,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1414438386
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53668,7 +53779,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 000000
+  m_text: 000021
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -59489,7 +59600,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 000000
+  m_text: 000543
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -66615,6 +66726,8 @@ MonoBehaviour:
   Adder1: {fileID: 1852275137}
   Adder2: {fileID: 878476905}
   InstMem: {fileID: 248637413}
+  ControlUnit: {fileID: 1331883351}
+  RegistersBank: {fileID: 1287127594}
   value: 004
 --- !u!1 &1822644351
 GameObject:
@@ -77160,7 +77273,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000015497, y: -0.000000029802}
+  m_AnchoredPosition: {x: -0, y: 0}
   m_SizeDelta: {x: 2.7730358, y: 0.9121691}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2072338067
