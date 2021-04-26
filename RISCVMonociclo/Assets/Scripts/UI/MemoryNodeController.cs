@@ -11,4 +11,10 @@ public class MemoryNodeController : MonoBehaviour
     {
         MemoryContent.text = MemAddress + " - " + MemValue;
     }
+
+    public string ReadMemoryContent()
+    {
+        string[] TempResult = MemoryContent.text.Split('-');
+        return TempResult[1].Substring(1);
+    }
 }

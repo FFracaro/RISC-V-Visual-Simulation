@@ -46,6 +46,11 @@ public class InstructionMemory : MonoBehaviour
         return Reg3Value;
     }
 
+    public string GetInstrucaoAtual()
+    {
+        return InstruçãoAtual;
+    }
+
     public string[] GetULAControlValue()
     {
         return ULAControlValue;
@@ -112,10 +117,12 @@ public class InstructionMemory : MonoBehaviour
                 return "LW";
             case 35:
                 return "SW";
+            case 19:
+                return "ADDI";
             case 99:
                 if (Convert.ToInt32(ULAControlValue[1], 2) == 0)               
                     return "BEQ";
-                break;
+                return "BNE";
             case 51:
                 if (Convert.ToInt32(ULAControlValue[1], 2) == 0)
                 {

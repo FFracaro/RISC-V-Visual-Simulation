@@ -7,9 +7,10 @@ using TMPro;
 
 public class Registers : MonoBehaviour
 {
+    public BinaryToDecimal Bin2Dec;
     public TMP_Text Reg1Output;
     public TMP_Text[] Reg2Output;
-
+    
     public List<GameObject> RegistersArrows;
     public List<TMP_Text> RegistersContent;
 
@@ -37,7 +38,7 @@ public class Registers : MonoBehaviour
     public void SetValueToRegister3(string value)
     {
         if (RegWriteValue == 1)
-            SetContentToRegister(Convert.ToInt32(RegistersToUse[3], 2), value);
+            SetContentToRegister(Convert.ToInt32(RegistersToUse[2], 2), value);
     }
 
     public void HideArrowsFromRegisters()
@@ -91,5 +92,15 @@ public class Registers : MonoBehaviour
         RegistersArrows[reg1].SetActive(false);
         RegistersArrows[reg2].SetActive(false);
         RegistersArrows[reg3].SetActive(false);
+    }
+
+    private int ConvertStringToDecimal(string value)
+    {
+        if (value.IndexOf('-') != -1)
+        {
+            string[] s = value.Split('-');
+            return Int32.Parse(s[1]) * -1;
+        }
+        return Bin2Dec.BinToDec(value);
     }
 }

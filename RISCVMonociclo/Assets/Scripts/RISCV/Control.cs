@@ -80,6 +80,9 @@ public class Control : MonoBehaviour
             case 3:
                 SetValues("I", 1, 0, 1, 1, "00", 0, 1);
                 break;
+            case 19:
+                SetValues("I", 1, 0, 0, 0, "00", 0, 1);
+                break;
             case 35:
                 SetValues("S", 0, 0, 0, 0, "00", 1, 1);
                 break;

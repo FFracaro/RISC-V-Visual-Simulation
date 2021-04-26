@@ -7,9 +7,13 @@ using TMPro;
 
 public class Adder : MonoBehaviour
 {
+    public bool IsJumpAdder;
     string EntradaValue1;
     string EntradaValue2 = "004";
+    string EntradaValue2Binary;
     public TMP_Text Saida;
+
+    public BinaryToDecimal Bin2Dec;
 
     public void SetValorEntrada1Adder(string value)
     {
@@ -18,7 +22,12 @@ public class Adder : MonoBehaviour
 
     public void SetValorEntrada2Adder(string value)
     {
-        EntradaValue1 = value;
+        EntradaValue2 = value;
+    }
+
+    public void SetValorEntrada2BinaryAdder(string value)
+    {
+        EntradaValue2Binary = value;
     }
 
     public string GetValorSaidaAdder()
@@ -28,10 +37,20 @@ public class Adder : MonoBehaviour
 
     public void PropagarValorAdder()
     {
-        int InValue1 = Int32.Parse(EntradaValue1);
-        int InValue2 = Int32.Parse(EntradaValue2);
-        int result = InValue1 + InValue2;
+        int result = 0;
 
-        Saida.text = result.ToString().PadLeft(3, '0');
+        int InValue1 = Int32.Parse(EntradaValue1);
+
+        if(IsJumpAdder)
+        {
+            result = InValue1 + Bin2Dec.BinToDec(EntradaValue2Binary);
+            Saida.text = result.ToString().PadLeft(6, '0');
+        }
+        else
+        {
+            int InValue2 = Int32.Parse(EntradaValue2);
+            result = InValue1 + InValue2;
+            Saida.text = result.ToString().PadLeft(3, '0');
+        }     
     }
 }

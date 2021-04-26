@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class MemoryUIController : MonoBehaviour
 {
@@ -9,6 +10,12 @@ public class MemoryUIController : MonoBehaviour
     public ScrollRect ScrollView;
     public GameObject ScrollContent;
     public GameObject NodePrefab;
+
+    public TMP_Text MemWriteField;
+    public TMP_Text MemReadField;
+    public TMP_Text AddressField;
+    public TMP_Text WriteDataField;
+    public TMP_Text ReadDataField;
 
     private List<GameObject> MemoryNodes = new List<GameObject>();
 
@@ -30,6 +37,15 @@ public class MemoryUIController : MonoBehaviour
         ScrollView.verticalNormalizedPosition = 1;
     }
 
+    public void UpdateMemoryUIValues(string MemWrite, string MemRead, string Address, string WriteData, string ReadData)
+    {
+        MemWriteField.text = MemWrite;
+        MemReadField.text = MemRead;
+        AddressField.text = Address;
+        WriteDataField.text = WriteData;
+        ReadDataField.text = ReadData;
+}
+
     public void UpdateMemoryNode(int MemAddress)
     {
         // MemAddress pode ser 0 até 254
@@ -42,6 +58,21 @@ public class MemoryUIController : MonoBehaviour
         // MemAddress pode ser 0 até 254
         if ((MemAddress > -1) && (MemAddress < 255))
             MemoryNodes[MemAddress].GetComponent<MemoryNodeController>().AddMemoryContent(MemAddress, MemValue);
+    }
+
+    public void WriteToMemory(int MemAddress, string MemValue)
+    {
+        // MemAddress pode ser 0 até 254
+        if ((MemAddress > -1) && (MemAddress < 255))
+            MemoryNodes[MemAddress].GetComponent<MemoryNodeController>().AddMemoryContent(MemAddress, MemValue);
+    }
+
+    public string ReadFromMemory(int MemAddress)
+    {
+        // MemAddress pode ser 0 até 254
+        if ((MemAddress > -1) && (MemAddress < 255))
+            return MemoryNodes[MemAddress].GetComponent<MemoryNodeController>().ReadMemoryContent();
+        return "000000";
     }
 
     public void OpenMemoryCanvas()
