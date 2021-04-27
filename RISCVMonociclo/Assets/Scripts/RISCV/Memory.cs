@@ -37,8 +37,10 @@ public class Memory : MonoBehaviour
         if (MemWrite == 1)
         {
             int AddressDec = ConvertStringToDecimal(ULAValue);
-            MemUIController.WriteToMemory(AddressDec, Reg2Result);
-            MemUIController.UpdateMemoryUIValues("" + MemWrite, "" + MemRead, ULAValue, Reg2Result, "000000");
+            string REG2ValueStringDec = ConvertStringToDecimal(Reg2Result).ToString().PadLeft(6, '0');
+            Debug.Log("MEMORY VALUE: " + REG2ValueStringDec);
+            MemUIController.WriteToMemory(AddressDec, REG2ValueStringDec);
+            MemUIController.UpdateMemoryUIValues("" + MemWrite, "" + MemRead, ULAValue, REG2ValueStringDec, "000000");
             return "000000";
         }
         else
@@ -65,6 +67,6 @@ public class Memory : MonoBehaviour
             string[] s = value.Split('-');
             return Int32.Parse(s[1]) * -1;
         }
-        return Bin2Dec.BinToDec(value);
+        return Int32.Parse(value);
     }
 }

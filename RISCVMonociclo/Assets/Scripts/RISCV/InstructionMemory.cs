@@ -66,6 +66,11 @@ public class InstructionMemory : MonoBehaviour
         InstruçãoAtual = SetNovaInstrução((Int32.Parse(PCValor) / 4));
     }
 
+    public int GetQuantidadeInstrucoes()
+    {
+        return Instruções.Count;
+    }
+
     public void PropagarValoresInstrução()
     {
         IMMGenInput.text = InstruçãoAtual;

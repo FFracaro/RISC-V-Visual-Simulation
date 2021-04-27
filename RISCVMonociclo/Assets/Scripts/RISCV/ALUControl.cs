@@ -33,13 +33,20 @@ public class ALUControl : MonoBehaviour
 
     private void ParseValues()
     {
-        switch(ALUopValues)
+        int Funct3Dec;
+
+        switch (ALUopValues)
         {
             case "00":
                 ALUControlResult = "0010";
                 break;
             case "01":
-                ALUControlResult = "0110";
+                Funct3Dec = Convert.ToInt32(ULAControlValues[1], 2);
+
+                if (Funct3Dec == 0)
+                    ALUControlResult = "0110";
+                else
+                    ALUControlResult = "0111";
                 break;
             case "11":
                 ALUControlResult = "0110";
@@ -51,7 +58,7 @@ public class ALUControl : MonoBehaviour
                 }
                 else
                 {
-                    int Funct3Dec = Convert.ToInt32(ULAControlValues[1], 2);
+                    Funct3Dec = Convert.ToInt32(ULAControlValues[1], 2);
 
                     if (Funct3Dec == 0)
                     {
@@ -61,8 +68,8 @@ public class ALUControl : MonoBehaviour
                     {
                         if (Funct3Dec == 6)
                             ALUControlResult = "0001";
-
-                        ALUControlResult = "0000";
+                        else
+                            ALUControlResult = "0000";
                     }
                 }
                 break;

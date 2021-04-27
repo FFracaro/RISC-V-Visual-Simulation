@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -18,6 +19,11 @@ public class ProgramCounter : MonoBehaviour
     public string GetPCAtualValue()
     {
         return PCAtual.text;
+    }
+
+    public int GetPCProximoValueDec()
+    {
+        return Int32.Parse(PCProximo.text) / 4;
     }
 
     public void PropagarValorPC()

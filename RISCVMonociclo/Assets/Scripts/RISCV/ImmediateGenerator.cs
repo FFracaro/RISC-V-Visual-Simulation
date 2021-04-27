@@ -66,7 +66,10 @@ public class ImmediateGenerator : MonoBehaviour
 
         switch (DecOPCode)
         {
-            case 3 | 19: // Load e Addi
+            case 3: // Load
+                GetImmediateValueTipoRI();
+                break;
+            case 19: // Addi
                 GetImmediateValueTipoRI();
                 break;
             case 35: // Store

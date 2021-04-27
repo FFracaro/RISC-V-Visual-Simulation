@@ -101,6 +101,6 @@ public class Registers : MonoBehaviour
             string[] s = value.Split('-');
             return Int32.Parse(s[1]) * -1;
         }
-        return Bin2Dec.BinToDec(value);
+        return Int32.Parse(value);
     }
 }

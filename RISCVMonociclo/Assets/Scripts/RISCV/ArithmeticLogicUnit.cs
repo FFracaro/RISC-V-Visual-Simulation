@@ -54,8 +54,11 @@ public class ArithmeticLogicUnit : MonoBehaviour
             case 2: // ADD 0010
                 CalcADD();
                 break;
-            case 6: // SUB 0110
-                CalcSUB();
+            case 6: // SUB 0110 - BEQ
+                CalcSUB(0);
+                break;
+            case 7: // SUB 0111 - BNE
+                CalcSUB(1);
                 break;
         }
     }
@@ -65,9 +68,10 @@ public class ArithmeticLogicUnit : MonoBehaviour
         if(value.IndexOf('-') != -1)
         {
             string[] s = value.Split('-');
+            Debug.Log("SPLIT OF VALUE: " + value + " = " + s[0] + " and " + s[1]);
             return Int32.Parse(s[1]) * -1;
         }
-        return Bin2Dec.BinToDec(value);
+        return Int32.Parse(value);
     }
 
     private void CalcAND()
@@ -75,6 +79,8 @@ public class ArithmeticLogicUnit : MonoBehaviour
         int result = ConvertStringToDecimal(Value1) & ConvertStringToDecimal(Value2);
         if (result == 0)
             Zero = 1;
+        else
+            Zero = 0;
 
         ULAResult = result.ToString().PadLeft(6, '0');
     }
@@ -84,6 +90,8 @@ public class ArithmeticLogicUnit : MonoBehaviour
         int result = ConvertStringToDecimal(Value1) | ConvertStringToDecimal(Value2);
         if (result == 0)
             Zero = 1;
+        else
+            Zero = 0;
 
         ULAResult = result.ToString().PadLeft(6, '0');
     }
@@ -91,17 +99,34 @@ public class ArithmeticLogicUnit : MonoBehaviour
     private void CalcADD()
     {
         int result = ConvertStringToDecimal(Value1) + ConvertStringToDecimal(Value2);
+        //Debug.Log("V1: " + Value1 + " V2: " + Value2);
+        //Debug.Log("ADD V1: " + ConvertStringToDecimal(Value1) + " V2: " + ConvertStringToDecimal(Value2));
+
         if (result == 0)
             Zero = 1;
+        else
+            Zero = 0;
 
         ULAResult = result.ToString().PadLeft(6, '0');
     }
 
-    private void CalcSUB()
+    private void CalcSUB(int InvertZero)
     {
         int result = ConvertStringToDecimal(Value1) - ConvertStringToDecimal(Value2);
+
         if (result == 0)
+        {
             Zero = 1;
+            if (InvertZero == 1)
+                Zero = 0;
+        }
+        else
+        {
+            Zero = 0;
+            if (InvertZero == 1)
+                Zero = 1;
+        }
+
 
         ULAResult = result.ToString().PadLeft(6, '0');
     }
