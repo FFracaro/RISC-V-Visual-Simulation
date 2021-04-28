@@ -127,7 +127,6 @@ public class ArithmeticLogicUnit : MonoBehaviour
                 Zero = 1;
         }
 
-
         ULAResult = result.ToString().PadLeft(6, '0');
     }
 }

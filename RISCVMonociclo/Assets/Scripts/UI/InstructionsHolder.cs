@@ -20,4 +20,9 @@ public class InstructionsHolder : MonoBehaviour
     {
         return Instrucoes;
     }
+
+    public void DestroyThisObject()
+    {
+        Destroy(this);
+    }
 }
