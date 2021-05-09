@@ -43,7 +43,7 @@ public class Adder : MonoBehaviour
 
         if(IsJumpAdder)
         {
-            result = InValue1 + Bin2Dec.BinToDec(EntradaValue2Binary);
+            result = InValue1 + Bin2Dec.BinToDec(EntradaValue2Binary) + 4;
             Saida.text = result.ToString().PadLeft(6, '0');
         }
         else
